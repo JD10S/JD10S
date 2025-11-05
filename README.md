@@ -1,5 +1,13 @@
 # 💫 About Me:
-¡Hola a todos! 👋 Soy Jeffer Daniel, un apasionado programador de 23 años proveniente de Colombia. Mi viaje en el mundo de la programación comenzó con una mezcla de curiosidad y determinación, y desde entonces, no he dejado de emocionarme por aprender y crecer en este fascinante campo.<br><br>Mi mayor motivación radica en desafiar constantemente mis límites y en la búsqueda incesante de soluciones creativas para los problemas. Con una mentalidad orientada a resultados, me esfuerzo por sobresalir en cada proyecto en el que me embarco.<br><br>En mi mochila de habilidades encontrarás un conjunto diverso que incluye lenguajes como JavaScript y c#, así como experiencia práctica en el desarrollo web y la creación de aplicaciones. Mi enfoque no se limita solo a escribir código; me encanta colaborar en equipo, compartir conocimientos y aprender de cada experiencia.<br><br>Lo que me diferencia es mi compromiso con el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para ampliar mis habilidades y enfrentar desafíos más grandes. Mi objetivo es no solo ser un espectador en el mundo tecnológico, sino un contribuyente activo y valioso.<br><br>Estoy ansioso por participar en proyectos innovadores que me permitan no solo aplicar mis habilidades actuales, sino también adquirir nuevas destrezas. Siendo un apasionado de la tecnología, estoy convencido de que la mejor manera de aprender es a través de la práctica y la colaboración.<br><br>Si estás buscando a alguien que aporte entusiasmo, creatividad y dedicación a tu equipo, ¡no dudes en ponerte en contacto conmigo! Estoy listo para sumergirme en desafíos emocionantes y crecer junto a un grupo de profesionales apasionados.<br><br>¡Hagamos cosas increíbles juntos! 🚀✨
+Hola, soy Jeffer Daniel, desarrollador de 25 años de Colombia.
+
+Tengo experiencia sólida en desarrollo web fullstack con PHP (Laravel), JavaScript y C#. Construyo aplicaciones robustas, escalables y bien estructuradas, desde el backend hasta el frontend.
+
+Mi enfoque es práctico: resuelvo problemas complejos, optimizo rendimiento y entrego código limpio y mantenible. Trabajo bien en equipo, comparto conocimiento y me mantengo actualizado con las mejores prácticas.
+
+Actualmente busco proyectos desafiantes donde pueda aplicar mis habilidades y seguir creciendo técnicamente.
+
+¿Tienes un reto? Hablemos.
 
 
 # 💻 Tech Stack:
