@@ -59,13 +59,7 @@ Management platform focused on memberships, users and payments.
 
 ---
 
-# 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=JD10S&theme=dark&hide_border=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JD10S&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 📫 Connect with me
 
