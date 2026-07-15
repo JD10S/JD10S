@@ -72,10 +72,5 @@ Management platform focused on memberships, users and payments.
 - 💼 LinkedIn: https://linkedin.com/in/jeffer-peralta
 - 🌐 Portfolio: https://jeffer-peralta.vercel.app/
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=JD10S&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
